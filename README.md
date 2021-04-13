@@ -16,7 +16,14 @@
 ### CONTACTO
 * #### [LINKEDIN]
 * #### [E-MAIL]
+------------------------------------------
+### SOBRE MÍ
+"Me considero una persona inquieta, siempre en busca de nuevos proyectos. 
+En constante formación, siempre intento estar al día de las nuevas tecnologías
+que salen al mercado."
+"Te invito a que veas alguno de mis proyecto de GitHub"
 
 [LINKEDIN]:https://www.linkedin.com/in/juanluishidalgo/
 [E-MAIL]:mailto:jhidalgo@khhinformatica.com
 
+!(JUAHISAN/ajustado.jpg)
