@@ -17,6 +17,6 @@
 * #### [LINKEDIN]
 * #### [E-MAIL]
 
-[LINKEDIN]:https://www.linkedin.com/in/juanluishidalgo/{:target="_blank"}
+[LINKEDIN](https://www.linkedin.com/in/juanluishidalgo/?target=_blank)
 [E-MAIL]:mailto:jhidalgo@khhinformatica.com
 
