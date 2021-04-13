@@ -1,4 +1,5 @@
 # JUAN LUIS HIDALGO SANCHO
+[img1]
 -----------------------------------------
 ### Experto Freelance en CIENCIA DE DATOS y OPTIMIZACIÓN DE PROCESOS 
 ### Big Data | Machine Learning | Deep Learning | Artificial Intelligence
@@ -25,5 +26,4 @@ que salen al mercado."
 
 [LINKEDIN]:https://www.linkedin.com/in/juanluishidalgo/
 [E-MAIL]:mailto:jhidalgo@khhinformatica.com
-
-!(JUAHISAN/ajustado.jpg)
+[img1]:/JUAHISAN/ajustado.jpg 
