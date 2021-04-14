@@ -13,6 +13,11 @@
 ### EXPERIENCIA
 * #### INDUSTRIA 4.0
 * #### MERCADO DE CAPITALES
+-----------------------------------------
+### HERRAMIENTAS
+* #### PYTHON
+* #### LINUX
+* #### AWS
 ---------------------------------------------
 ### CONTACTO
 * #### [LINKEDIN]
@@ -26,5 +31,5 @@ Te invito a que veas alguno de mis proyecto de GitHub"
 
 [LINKEDIN]:https://www.linkedin.com/in/juanluishidalgo/
 [E-MAIL]:mailto:jhidalgo@khhinformatica.com
-[img1]:/JUAHISAN/ajustado.jpg 
+[C.V.]:
 
