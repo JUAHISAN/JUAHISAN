@@ -32,5 +32,5 @@ Te invito a que veas alguno de mis proyecto de GitHub"
 
 [LINKEDIN]:https://www.linkedin.com/in/juanluishidalgo/
 [E-MAIL]:mailto:jhidalgo@khhinformatica.com
-[C.V.]:1DfrkwYZTwMnQvzjbBF_edq7k2ecRDTId
+[C.V.]:cv.pdf
 
