@@ -2,7 +2,7 @@
 ![This is me](ajustado.jpg)
 -----------------------------------------
 ### Experto Freelance en CIENCIA DE DATOS y OPTIMIZACIÓN DE PROCESOS 
-### Big Data | Machine Learning | Deep Learning | Artificial Intelligence
+### Big Data | Machine Learning | Deep Learning | Artificial Intelligence | Industria 4.0
 ------------------------------------------
 ### FORMACIÓN
 * #### INGENIERO DE TELECOMUNICACIONES: ***Universidad Politécnica de Valencia***
